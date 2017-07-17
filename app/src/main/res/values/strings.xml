@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RestfullApiTest</string>
+
+
+    <string name="label_address_id">Address Id</string>
+    <string name="label_address_province">Address Title</string>
+
+</resources>
